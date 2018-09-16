@@ -1,0 +1,7 @@
+diff --git a/qaz.py b/qaz.py
+index 51240a5..692b560 100644
+--- a/qaz.py
++++ b/qaz.py
+@@ -1 +1,2 @@
+ print ("nihao songyouli")
++int a ,b,c,d,m
