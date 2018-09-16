@@ -1,2 +1,3 @@
 print ("nihao songyouli")
-int a ,b,c,d,m
+int a ,b,c,
+print("sajdjadhja")
