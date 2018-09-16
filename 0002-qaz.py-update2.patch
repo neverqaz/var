@@ -1,0 +1,21 @@
+From ebb244cd05e22c8be06cd37db9104c9991f103c6 Mon Sep 17 00:00:00 2001
+From: never <1532105342@qq.com>
+Date: Sun, 16 Sep 2018 20:43:01 +0800
+Subject: [PATCH 2/2] qaz.py update2
+
+---
+ qaz.py | 3 ++-
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+diff --git a/qaz.py b/qaz.py
+index 692b560..a291234 100644
+--- a/qaz.py
++++ b/qaz.py
+@@ -1,2 +1,3 @@
+ print ("nihao songyouli")
+-int a ,b,c,d,m
++int a ,b,c,
++print("sajdjadhja")
+-- 
+2.17.0
+
